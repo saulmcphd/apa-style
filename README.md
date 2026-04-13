@@ -2,7 +2,7 @@
 
 A comprehensive APA 7th edition proofreading skill for Claude AI that produces a Grammarly-style interactive report with inline corrections, a scoring dashboard, and a sidebar with rule-by-rule explanations.
 
-![APA Style Checker Dashboard](screenshots/apa-dashboard-strip.png)
+![APA Style Checker Dashboard](apa-dashboard-strip.png)
 
 ## What It Does
 
@@ -14,7 +14,7 @@ Upload an academic paper (or paste text) and Claude produces an HTML artifact th
 - **Renders your tables as-is** so you can see structural mistakes, with the correctly formatted version shown in the sidebar
 - **Categorises issues** across six colour-coded categories: Correctness, APA Compliance, Citations & References, Style, Statistical Notation, and Tables & Figures
 
-![Two-panel layout](screenshots/apa-two-panel-layout.png)
+![Two-panel layout](apa-two-panel-layout.png)
 
 ## Why It Exists
 
@@ -27,7 +27,7 @@ Existing APA tools cover narrow slices of the problem:
 
 This skill checks everything in a single pass, shows your original errors, and teaches you the rule behind each correction.
 
-![Comparison](screenshots/apa-comparison-grid.png)
+![Comparison](apa-comparison-grid.png)
 
 ## How It Was Built
 
